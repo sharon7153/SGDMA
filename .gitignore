@@ -1,0 +1,10 @@
+# Vivado / xsim outputs
+*.jou
+*.log
+*.str
+*.pb
+xsim.dir/
+.Xil/
+*.wdb
+webtalk*
+*.backup.*
