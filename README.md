@@ -1,4 +1,4 @@
-# pro-a-sgdma-hrcho : Scatter-Gather DMA
+# SG DMA : Scatter-Gather DMA
 
 ADI(Analog Devices) 오픈소스 HDL의 `axi_dmac` IP를 기반으로, **SG(Scatter-Gather) DMA만 독립적으로 동작하도록 추출·구성**하고 Vivado xsim 환경에서 bring-up 검증까지 완료한 프로젝트입니다. 최종 목표는 이 SG DMA를 중심으로 SoC를 구성하고 SV/UVM 기반 검증 환경까지 확장하는 것입니다.
 
